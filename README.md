@@ -41,6 +41,15 @@ AutoML은 말 그대로 머신러닝을 위한 다음과 같은 사항들을 모
 * Reinforcement Learning
 | Conference | Title | paper | code |
 |---|:---:|:---:|---:|
+| ICLR 2017 | Nerual Architecture Search with Reinforcement Elarning | [paper](https://arxiv.org/pdf/1611.01578.pdf) | [code]() |
+| 2018 | Efficient Neural Architecture Search via Parameter Sharing | [paper](https://arxiv.org/pdf/1802.03268.pdf) | [code]() |
+| ECCV 2018 | AMC: AutoML for Model Compression and Acceleration on Mobile Devices |[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) | [code]() |
+
+| Conference | Title | paper | code |
+|---|:---:|:---:|---:|
+| ICLR 2017 | Nerual Architecture Search with Reinforcement Elarning | [paper](https://arxiv.org/pdf/1611.01578.pdf) | [code]() |
+| 2018 | Efficient Neural Architecture Search via Parameter Sharing | [paper](https://arxiv.org/pdf/1802.03268.pdf) | [code]() |
+| ECCV 2018 | AMC: AutoML for Model Compression and Acceleration on Mobile Devices |[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) | [code]() |
 
 
 #### Hyper-Parameter Optimization
