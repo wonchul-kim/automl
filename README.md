@@ -21,7 +21,7 @@ AutoML은 말 그대로 머신러닝을 위한 다음과 같은 사항들을 모
 * Meta-Learning
 * Neural Architecture Search (NAS)
 
-<img src='./imgs/pip.png'>
+<img src='./imgs/pipe.png'>
 
 위에서도 알 수 있듯이, NAS와 HPO가 가장 활발히 연구가 진행되고 있다. 
 
@@ -34,7 +34,6 @@ AutoML은 말 그대로 머신러닝을 위한 다음과 같은 사항들을 모
 | 2019 | AutoML: A Survey of the State-of-the-Art | [paper](https://arxiv.org/pdf/1908.00709.pdf) | [code]() |
 | 2019 | Benchmark and Survey of Automated Machine Learning Frameworks | [paper](https://arxiv.org/pdf/1904.12054.pdf) | [code]() |
 | 2019 | Automated Machine Learning: State-of-The-Art and Open Challenges |[paper](https://arxiv.org/pdf/1906.02287.pdf) | [code]() |
-
 | 2020 | On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice |[paper](https://arxiv.org/pdf/2007.15745.pdf) | [code]() |
 
 #### NAS
@@ -45,7 +44,7 @@ AutoML은 말 그대로 머신러닝을 위한 다음과 같은 사항들을 모
 | ICLR 2017 | Nerual Architecture Search with Reinforcement Elarning | [paper](https://arxiv.org/pdf/1611.01578.pdf) | [code]() |
 | 2018 | Efficient Neural Architecture Search via Parameter Sharing | [paper](https://arxiv.org/pdf/1802.03268.pdf) | [code]() |
 | ECCV 2018 | AMC: AutoML for Model Compression and Acceleration on Mobile Devices |[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) | [code]() |
-|  | |[paper]() | [code]() |
+
 
 #### Hyper-Parameter Optimization
 * Bayeisan Optimization
